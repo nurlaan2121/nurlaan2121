@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nurlaan2121
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning  in Peaksoft House
+- 🌱 I have already completed a java course at PeaksoftHouse
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
